@@ -51,7 +51,7 @@ const Footer = () => {
   <div className="flex gap-5">
     {/* Instagram */}
     <a 
-      href="https://www.instagram.com/p/DVanJ_5DxMF/?utm_source=ig_web_copy_link" 
+      href="https://www.instagram.com/designeo_printings?igsh=eWJvaGpkaXQ5MGV6" 
       target="_blank" 
       rel="noopener noreferrer"
       className="p-2 rounded-full border border-foreground/10 hover:border-[#dbfe43] hover:text-[#dbfe43] transition-all duration-300 group"
